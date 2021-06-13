@@ -1,0 +1,11 @@
+.footer {
+    position: relative;
+    padding: 0 6px 0 21px;
+    justify-content: space-between;
+    color: deepskyblue;
+}
+
+.amount {
+    font-size: 9px;
+}
+

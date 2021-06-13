@@ -1,0 +1,12 @@
+.todo-item {
+    font-size: 24px;
+    border-bottom: 1px solid #ededed;
+    min-height: 60px;
+    display: flex;
+    align-items: center;
+    list-style: none;
+    padding: 0 16px 0 60px;
+    justify-content: space-between;
+    position: relative;
+}
+
