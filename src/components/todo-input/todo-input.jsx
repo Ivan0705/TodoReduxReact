@@ -5,7 +5,7 @@ const TodoInput = ({value, onChange, onKeyPress}) => (
     <div className="input-group mb-3">
         <div className=" input-group mb-3">
             <input
-                placeholder="Введите текст"
+                placeholder="Введите текст!"
                 onChange={onChange}
                 value={value}
                 onKeyPress={onKeyPress}
